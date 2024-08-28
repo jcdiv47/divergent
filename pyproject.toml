@@ -18,7 +18,7 @@ bitsandbytes = "^0.43.3"
 huggingface = "^0.0.1"
 huggingface-hub = "^0.24.6"
 transformers = "4.44"
-torch = ">=2.2"
+torch = "^2.2"
 
 
 [build-system]
