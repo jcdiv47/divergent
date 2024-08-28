@@ -1,0 +1,10 @@
+torch>=2.2
+transformers==4.44
+huggingface[cli]
+sentencepiece
+accelerate
+bitsandbytes
+fire
+loguru
+tqdm
+pytest
